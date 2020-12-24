@@ -1,0 +1,14 @@
+{
+    "name": "Edapazhassi media",
+    "short_name": "Edapazhassi media",
+    "description": "Enjoy Movie for Free",
+    "display": "standalone",
+    "start_url": "/?t=pwa",
+    "theme_color": "#171616",
+    "background_color": "#171616",
+    "icons": [{
+        "src": "../img/t-logo.png",
+        "sizes": "512x512",
+        "type": "image/png"
+    }]
+}
